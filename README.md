@@ -1,1 +1,3 @@
-Descricao sobre voce
+Projeto : Compra de ingressos
+Desenvolvedor : Aline Garcia
+ 
